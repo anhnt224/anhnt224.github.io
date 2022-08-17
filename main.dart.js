@@ -73171,7 +73171,7 @@ s($,"aIn","So",()=>new A.U4(A.z(t.N,A.a0("kp"))))
 r($,"aF5","agf",()=>new A.a9Y())
 s($,"aF4","age",()=>new A.E())
 s($,"aFL","Sb",()=>new A.a_X())
-s($,"aEY","aji",()=>{var q=new A.SC(),p=A.avP("http://103.121.91.247/CPC1HN/"),o=new A.Vr(A.apo(),new A.GT(A.b([],A.a0("p<qe>")),A.aho(),A.aho(),A.aho()),A.apo(),new A.V4(),!1)
+s($,"aEY","aji",()=>{var q=new A.SC(),p=A.avP("https://icpc1hn.work/CPC1HN/"),o=new A.Vr(A.apo(),new A.GT(A.b([],A.a0("p<qe>")),A.aho(),A.aho(),A.aho()),A.apo(),new A.V4(),!1)
 o.Lf$=p
 o.Lg$=new A.Tw(A.aO(t.Gf))
 A.cz($,"_dio")
